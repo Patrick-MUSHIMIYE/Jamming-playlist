@@ -1,0 +1,23 @@
+.searchBar{
+    text-align: center;
+    padding: 30px;
+}.search{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 20px;
+   
+}
+input{
+    padding: 4px;
+    background-color: rgba(128, 128, 128, 0.247);
+}
+.search-Area{
+    text-align: center;
+}
+button{
+    padding: 5px;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(180, 175, 175);
+}

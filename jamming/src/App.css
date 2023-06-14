@@ -1,0 +1,26 @@
+.container{
+  width: auto;
+  height: auto;
+  background-color: rgb(25, 3, 49);
+}
+.title{
+  text-align: center;
+  background-color: rgb(20, 2, 39);
+  color: white;
+  height: 80px;
+  width:100%;
+  position: fixed;
+  top:0;
+}
+.page_wrapper{
+  margin-top: 80px;
+}
+.songBoard{
+  background-color:  rgb(25, 3, 49);
+  height: 100%;
+  width: 94%;
+  margin:  0 3%;
+  display: flex;
+  flex-wrap: wrap;
+
+}
